@@ -7,7 +7,7 @@ __pycache__/
 Atari environments/Breakout/training
 Basic Practice/training
 Box2D environments/Car Racing/training
-
+Custom Environments/shower/training
 # C extensions
 *.so
 
